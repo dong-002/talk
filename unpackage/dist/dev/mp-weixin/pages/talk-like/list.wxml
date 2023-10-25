@@ -1,0 +1,1 @@
+<view class="container"><unicloud-db generic:scoped-slots-default="list-unicloud-db-default" data-vue-generic="scoped" class="vue-ref" vue-id="283ac858-1" orderby="like_date desc" collection="{{collectionList}}" field="article_id,user_id,like_date" data-ref="udb" bind:__l="__l" vue-slots="{{['default']}}"></unicloud-db></view>

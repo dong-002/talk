@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "文章详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-loading-page": "/uni_modules/uview-ui/components/u-loading-page/u-loading-page",
+    "u-avatar": "/uni_modules/uview-ui/components/u-avatar/u-avatar",
+    "uni-dateformat": "/uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat",
+    "u-parse": "/uni_modules/uview-ui/components/u-parse/u-parse",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "comment-item": "/components/commentItem/commentItem",
+    "u-loadmore": "/uni_modules/uview-ui/components/u-loadmore/u-loadmore",
+    "comment-input": "/components/commentInput/commentInput"
+  }
+}

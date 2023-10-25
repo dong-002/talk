@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "评论详情",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "comment-item": "/components/commentItem/commentItem",
+    "u-empty": "/uni_modules/uview-ui/components/u-empty/u-empty",
+    "u-loadmore": "/uni_modules/uview-ui/components/u-loadmore/u-loadmore",
+    "comment-input": "/components/commentInput/commentInput"
+  }
+}
